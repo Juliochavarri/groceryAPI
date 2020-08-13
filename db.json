@@ -1,0 +1,136 @@
+{
+    "edibles": [
+        {
+            "id": 0,
+            "title": "Acelga",
+            "image": "/img/frutas-y-verduras/acelga.jpg",
+            "price": 3
+        },
+        {
+            "id": 1,
+            "title": "Aguaymanto",
+            "image": "/img/frutas-y-verduras/aguaymanto.jpg",
+            "price": 5
+        },
+        {
+            "id": 2,
+            "title": "Ají",
+            "image": "/img/frutas-y-verduras/aji.jpg",
+            "price": 3
+        },
+        {
+            "id": 3,
+            "title": "Ajo",
+            "image": "/img/frutas-y-verduras/ajo.jpg",
+            "price": 6
+        },
+        {
+            "id": 4,
+            "title": "Albahaca",
+            "image": "/img/frutas-y-verduras/albahaca.jpeg",
+            "price": 2
+        },
+        {
+            "id": 5,
+            "title": "Alcachofa",
+            "image": "/img/frutas-y-verduras/alcachofa.jpg",
+            "price": 1
+        },
+        {
+            "id": 6,
+            "title": "Alverja",
+            "image": "/img/frutas-y-verduras/alverja.jpg",
+            "price": 1
+        },
+        {
+            "id": 7,
+            "title": "Apio",
+            "image": "/img/frutas-y-verduras/apio.jpg",
+            "price": 1
+        },
+        {
+            "id": 8,
+            "title": "Avellana",
+            "image": "/img/frutas-y-verduras/avellana.jpg",
+            "price": 5
+        },
+        {
+            "id": 9,
+            "title": "Avena",
+            "image": "/img/frutas-y-verduras/avena.jpg",
+            "price": 5
+        },
+        {
+            "id": 10,
+            "title": "Berenjena",
+            "image": "/img/frutas-y-verduras/berenjena.jpg",
+            "price": 4
+        },
+        {
+            "id": 11,
+            "title": "Brócoli",
+            "image": "/img/frutas-y-verduras/brocoli.jpg",
+            "price": 7
+        },
+        {
+            "id": 12,
+            "title": "Caihua",
+            "image": "/img/frutas-y-verduras/caihua.jpg",
+            "price": 5
+        },
+        {
+            "id": 13,
+            "title": "Calabaza",
+            "image": "/img/frutas-y-verduras/calabaza.jpg",
+            "price": 7
+        },
+        {
+            "id": 14,
+            "title": "Camote",
+            "image": "/img/frutas-y-verduras/camote.jpg",
+            "price": 1.5
+        },
+        {
+            "id": 15,
+            "title": "Canela",
+            "image": "/img/frutas-y-verduras/canela.jpg",
+            "price": 6.5
+        },
+        {
+            "id": 16,
+            "title": "Chirimoya",
+            "image": "/img/frutas-y-verduras/chirimoya.jpg",
+            "price": 4.5
+        },
+        {
+            "id": 16,
+            "title": "Choclo",
+            "image": "/img/frutas-y-verduras/choclo.jpeg",
+            "price": 4.5
+        },
+        {
+            "id": 17,
+            "title": "Ciruela",
+            "image": "/img/frutas-y-verduras/ciruela.jpg",
+            "price": 3.5
+        },
+        {
+            "id": 18,
+            "title": "Coliflor",
+            "image": "/img/frutas-y-verduras/coliflor.jpg",
+            "price": 2
+        },
+        {
+            "id": 19,
+            "title": "Culantro",
+            "image": "/img/frutas-y-verduras/culantro.jpg",
+            "price": 1.5
+        },
+        {
+            "id": 20,
+            "title": "Durazno",
+            "image": "/img/frutas-y-verduras/durazno.jpg",
+            "price": 2.5
+        }
+    ]
+}
