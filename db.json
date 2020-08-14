@@ -9,127 +9,127 @@
         {
             "id": 1,
             "title": "Aguaymanto",
-            "image": "/img/frutas-y-verduras/aguaymanto.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/aguaymanto.jpg",
             "price": 5
         },
         {
             "id": 2,
             "title": "Ají",
-            "image": "/img/frutas-y-verduras/aji.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/aji.jpg",
             "price": 3
         },
         {
             "id": 3,
             "title": "Ajo",
-            "image": "/img/frutas-y-verduras/ajo.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/ajo.jpg",
             "price": 6
         },
         {
             "id": 4,
             "title": "Albahaca",
-            "image": "/img/frutas-y-verduras/albahaca.jpeg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/albahaca.jpeg",
             "price": 2
         },
         {
             "id": 5,
             "title": "Alcachofa",
-            "image": "/img/frutas-y-verduras/alcachofa.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/alcachofa.jpg",
             "price": 1
         },
         {
             "id": 6,
             "title": "Alverja",
-            "image": "/img/frutas-y-verduras/alverja.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/alverja.jpg",
             "price": 1
         },
         {
             "id": 7,
             "title": "Apio",
-            "image": "/img/frutas-y-verduras/apio.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/apio.jpg",
             "price": 1
         },
         {
             "id": 8,
             "title": "Avellana",
-            "image": "/img/frutas-y-verduras/avellana.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/avellana.jpg",
             "price": 5
         },
         {
             "id": 9,
             "title": "Avena",
-            "image": "/img/frutas-y-verduras/avena.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/avena.jpg",
             "price": 5
         },
         {
             "id": 10,
             "title": "Berenjena",
-            "image": "/img/frutas-y-verduras/berenjena.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/berenjena.jpg",
             "price": 4
         },
         {
             "id": 11,
             "title": "Brócoli",
-            "image": "/img/frutas-y-verduras/brocoli.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/brocoli.jpg",
             "price": 7
         },
         {
             "id": 12,
             "title": "Caihua",
-            "image": "/img/frutas-y-verduras/caihua.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/caihua.jpg",
             "price": 5
         },
         {
             "id": 13,
             "title": "Calabaza",
-            "image": "/img/frutas-y-verduras/calabaza.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/calabaza.jpg",
             "price": 7
         },
         {
             "id": 14,
             "title": "Camote",
-            "image": "/img/frutas-y-verduras/camote.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/camote.jpg",
             "price": 1.5
         },
         {
             "id": 15,
             "title": "Canela",
-            "image": "/img/frutas-y-verduras/canela.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/canela.jpg",
             "price": 6.5
         },
         {
             "id": 16,
             "title": "Chirimoya",
-            "image": "/img/frutas-y-verduras/chirimoya.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/chirimoya.jpg",
             "price": 4.5
         },
         {
             "id": 17,
             "title": "Choclo",
-            "image": "/img/frutas-y-verduras/choclo.jpeg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/choclo.jpeg",
             "price": 4.5
         },
         {
             "id": 18,
             "title": "Ciruela",
-            "image": "/img/frutas-y-verduras/ciruela.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/ciruela.jpg",
             "price": 3.5
         },
         {
             "id": 19,
             "title": "Coliflor",
-            "image": "/img/frutas-y-verduras/coliflor.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/coliflor.jpg",
             "price": 2
         },
         {
             "id": 20,
             "title": "Culantro",
-            "image": "/img/frutas-y-verduras/culantro.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/culantro.jpg",
             "price": 1.5
         },
         {
             "id": 21,
             "title": "Durazno",
-            "image": "/img/frutas-y-verduras/durazno.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/durazno.jpg",
             "price": 2.5
         }
     ]
