@@ -179,24 +179,6 @@
             "title": "Guanábana",
             "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/guanabana.jpg",
             "price": 6.50
-        },
-        {
-            "id": 30,
-            "title": "Kión",
-            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/kion.jpg",
-            "price": 7.50
-        },
-        {
-            "id": 31,
-            "title": "Kiwi",
-            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/kiwi.jpg",
-            "price": 5.50
-        },
-        {
-            "id": 32,
-            "title": "Kiwicha",
-            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/kiwicha.jpeg",
-            "price": 9
         }
     ]
 }
