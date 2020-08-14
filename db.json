@@ -3,7 +3,7 @@
         {
             "id": 0,
             "title": "Acelga",
-            "image": "/img/frutas-y-verduras/acelga.jpg",
+            "image": "https://github.com/Juliochavarri/groceryAPI/blob/master/img/acelga.jpg",
             "price": 3
         },
         {
