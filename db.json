@@ -3,7 +3,7 @@
         {
             "id": 0,
             "title": "Acelga",
-            "image": "https://github.com/Juliochavarri/groceryAPI/blob/master/img/acelga.jpg",
+            "image": "https://raw.githubusercontent.com/Juliochavarri/groceryAPI/master/img/acelga.jpg",
             "price": 3
         },
         {
